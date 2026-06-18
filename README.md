@@ -63,14 +63,14 @@ When the application starts, choose between the **Terminal Interface** and the *
 
 ```text
 business-report-generator/
-├── data/                     # Sample data files
-├── images/                   # README screenshots
+├── Data/                     # Sample data files
+├── Images/                   # README screenshots
 │   ├── gui.png               
 │   ├── terminal.png
 │   ├── html_report.png
 │   └── pdf_report.png
-├── reports/                  # Generated reports (auto-created)
-├── src/
+├── Reports/                  # Generated reports (auto-created)
+├── SRC/
 │   ├── main.py               # Application entry point
 │   ├── loader.py             # CSV data loading and date parsing
 │   ├── processor.py          # Data aggregation and filtering logic
