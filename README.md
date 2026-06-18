@@ -12,19 +12,19 @@ Generate professional business reports from CSV files with support for PDF, Exce
 
 ### Graphical Interface
 
-![GUI](images/gui.png)
+![GUI](Images/gui.png)
 
 ### Terminal Interface
 
-![Terminal](images/terminal.png)
+![Terminal](Images/terminal.png)
 
 ### HTML Report
 
-![HTML Report](images/html_report.png)
+![HTML Report](Images/html_report.png)
 
 ### PDF Report
 
-![PDF Report](images/pdf_report.png)
+![PDF Report](Images/pdf_report.png)
 
 ## ✨ Features
 
