@@ -1,0 +1,48 @@
+date,category,amount,description
+2026-01-05,Food,42.50,Lunch
+2026-01-18,Transport,15.00,Bus Pass
+2026-01-27,Utilities,120.00,Internet Bill
+
+2026-02-03,Food,38.90,Dinner
+2026-02-14,Entertainment,25.00,Cinema
+2026-02-25,Transport,18.50,Taxi
+
+2026-03-07,Utilities,115.00,Electricity Bill
+2026-03-16,Food,55.20,Groceries
+2026-03-29,Entertainment,40.00,Concert Ticket
+
+2026-04-02,Transport,12.00,Subway
+2026-04-13,Food,48.75,Restaurant
+2026-04-24,Utilities,130.00,Water Bill
+
+2026-05-01,Food,45.90,Lunch
+2026-05-15,Transport,12.00,Uber
+2026-05-28,Entertainment,30.00,Movie
+
+2026-06-06,Utilities,125.00,Internet Bill
+2026-06-17,Food,52.30,Groceries
+2026-06-30,Transport,20.00,Train Ticket
+
+2026-07-04,Entertainment,60.00,Theme Park
+2026-07-12,Food,41.80,Dinner
+2026-07-23,Utilities,118.00,Gas Bill
+
+2026-08-08,Transport,16.00,Taxi
+2026-08-19,Food,57.40,Restaurant
+2026-08-27,Entertainment,35.00,Bowling
+
+2026-09-03,Utilities,122.00,Electricity Bill
+2026-09-14,Food,49.90,Lunch
+2026-09-26,Transport,14.50,Bus Pass
+
+2026-10-05,Entertainment,45.00,Concert
+2026-10-16,Food,61.20,Groceries
+2026-10-29,Utilities,128.00,Water Bill
+
+2026-11-07,Transport,22.00,Train Ticket
+2026-11-18,Food,53.80,Dinner
+2026-11-25,Entertainment,28.00,Movie Night
+
+2026-12-04,Utilities,135.00,Internet Bill
+2026-12-15,Food,70.50,Holiday Dinner
+2026-12-28,Entertainment,80.00,New Year Event
